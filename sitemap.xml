@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.knowledgeplusdnbhd.com</loc>
-	<lastmod>2025-05-19</lastmod>
+	<lastmod>2025-05-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://www.knowledgeplusdnbhd.com/img/Knowledge%20Plus.png</image:loc>
-	<image:title>Knowledge Plus</image:title>
+	<image:loc>https://www.knowledgeplusdnbhd.com/img/kplogo.gif</image:loc>
+	<image:title>Knowledge Plus Logo</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/22.png</image:loc>
@@ -229,14 +229,10 @@
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/Johann%20Wolfgang%20Von%20Goethe.png</image:loc>
 	<image:title>Johann Wolfgang Von Goethe</image:title>
 	</image:image>
-	<video:video>
-	<video:content_loc>https://www.knowledgeplusdnbhd.com/vid/KP%20Logo%20Ani.mp4</video:content_loc>
-	<video:title>KP Logo Ani</video:title>
-	</video:video>
 </url>
 <url>
 	<loc>https://www.knowledgeplusdnbhd.com/bk/</loc>
-	<lastmod>2025-05-19</lastmod>
+	<lastmod>2025-05-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
