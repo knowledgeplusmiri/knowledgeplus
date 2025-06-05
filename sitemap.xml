@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.knowledgeplusdnbhd.com</loc>
-	<lastmod>2025-05-21</lastmod>
+	<lastmod>2025-06-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://www.knowledgeplusdnbhd.com/img/kplogo.gif</image:loc>
+	<image:loc>https://www.knowledgeplusdnbhd.com/img/kp-logo.gif</image:loc>
 	<image:title>Knowledge Plus Logo</image:title>
 	</image:image>
 	<image:image>
@@ -167,6 +167,10 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/logo-gepsmart.png</image:loc>
+	<image:title>hrdcorp logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.knowledgeplusdnbhd.com/img/logo-cidb.png</image:loc>
 	<image:title>hrdcorp logo</image:title>
 	</image:image>
 	<image:image>
