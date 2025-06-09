@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.knowledgeplusdnbhd.com</loc>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-06-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -15,15 +15,15 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/18.png</image:loc>
-	<image:title>18</image:title>
+	<image:title>Sarawak Energy</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/20.png</image:loc>
-	<image:title>20</image:title>
+	<image:title>Prudential</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/4.png</image:loc>
-	<image:title>4</image:title>
+	<image:title>Sarawak Plantation Berhad</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/29.png</image:loc>
@@ -34,7 +34,7 @@
 	<image:title>9</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.knowledgeplusdnbhd.com/img/move.png</image:loc>
+	<image:loc>https://www.knowledgeplusdnbhd.com/img/1.png</image:loc>
 	<image:title>move</image:title>
 	</image:image>
 	<image:image>
@@ -159,19 +159,23 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/logo-eperolehan.png</image:loc>
-	<image:title>hrdcorp logo</image:title>
+	<image:title>eperolehan logo</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/logo-ariba.png</image:loc>
-	<image:title>HRD Corp Claimable Logo</image:title>
+	<image:title>SAP Ariba logo</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/logo-gepsmart.png</image:loc>
-	<image:title>hrdcorp logo</image:title>
+	<image:title>GEP SMART logo</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.knowledgeplusdnbhd.com/img/logo-cidb.png</image:loc>
-	<image:title>hrdcorp logo</image:title>
+	<image:loc>https://www.knowledgeplusdnbhd.com/img/CIDB1.png</image:loc>
+	<image:title>CIDB logo 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.knowledgeplusdnbhd.com/img/CIDB2.png</image:loc>
+	<image:title>CIDB logo 1</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.knowledgeplusdnbhd.com/img/ben.jpg</image:loc>
